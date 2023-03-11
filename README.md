@@ -1,4 +1,3 @@
-# 1week
 # ****Costa Rican Household Poverty Level Prediction****
 
 1. 목표 : 코스타리카 가구 특성에 대한 데이터셋을 기반으로 PMT(대리 수단 테스트) 알고리즘의 개선
